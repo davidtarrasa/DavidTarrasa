@@ -1,4 +1,4 @@
-# 👋 Hola, soy David Tarrasa
+# David Tarrasa
 
 🎓 Estudiante de **Ingeniería Matemática e Inteligencia Artificial**  
 💻 Apasionado por la programación, la optimización y la inteligencia artificial  
