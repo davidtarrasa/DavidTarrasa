@@ -1,5 +1,14 @@
 # David Tarrasa
 
+# 🚀 My current GitHub profile
+
+## 👉 [Visit my updated GitHub profile](https://github.com/TU_USUARIO_CORRECTO)
+
+> This repository belongs to an old GitHub profile.  
+> For my latest projects, AI work and updated portfolio, please visit my current account above.
+
+---
+
 🎓 Estudiante de **Ingeniería Matemática e Inteligencia Artificial**  
 💻 Apasionado por la programación, la optimización y la inteligencia artificial  
 ⚽ Me gusta combinar la ciencia de datos con proyectos prácticos y jugar al fútbol en mi tiempo libre  
