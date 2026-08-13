@@ -2,7 +2,7 @@
 
 # 🚀 My current GitHub profile
 
-## 👉 [Visit my updated GitHub profile](https://github.com/TU_USUARIO_CORRECTO)
+## 👉 [Visit my updated GitHub profile](https://github.com/davidtarrasap)
 
 > This repository belongs to an old GitHub profile.  
 > For my latest projects, AI work and updated portfolio, please visit my current account above.
